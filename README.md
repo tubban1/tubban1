@@ -2,41 +2,53 @@
 
 # Liang Rao
 
-### AI Builder · Agent Systems · World Simulation · Open Research
+### AI Systems · Agents · World Models · Open Source · Open Research
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Systems;Agents+%C2%B7+World+Models+%C2%B7+Simulation;Open+Research+%C2%B7+Executable+Models;From+Research+to+Real+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Building+Autonomous+AI+Systems;Agents+%C2%B7+World+Models+%C2%B7+Simulation;Open+Source+%C2%B7+Open+Research;From+Executable+Models+to+Real+Products" />
 
 🇨🇭 Switzerland
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5567--2335-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5567-2335)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-wihaha-FFD21E)](https://huggingface.co/wihaha)
+[![Zenodo](https://img.shields.io/badge/Zenodo-FlyEye%20DOI-1682D4)](https://doi.org/10.5281/zenodo.22829797)
 
 </div>
 
 ---
 
-## 🔬 Research Identity
+## ⭐ Selected Open-Source Work
 
-- **ORCID:** [0009-0005-5567-2335](https://orcid.org/0009-0005-5567-2335)
-- **Hugging Face:** [wihaha](https://huggingface.co/wihaha)
-- **Zenodo:** [FlyEye DOI](https://doi.org/10.5281/zenodo.22829797)
-- **GitHub:** [tubban1](https://github.com/tubban1)
+### 🎓 [eduNest](https://github.com/tubban1/eduNest)
+
+**AI-native interactive education and automated courseware generation platform.**
+
+Next.js + Express + Supabase + multi-LLM + realtime voice + interactive H5 courseware.
+
+[![Stars](https://img.shields.io/github/stars/tubban1/eduNest?style=flat-square&logo=github)](https://github.com/tubban1/eduNest/stargazers)
+[![Forks](https://img.shields.io/github/forks/tubban1/eduNest?style=flat-square&logo=github)](https://github.com/tubban1/eduNest/network/members)
+[![License](https://img.shields.io/github/license/tubban1/eduNest?style=flat-square)](https://github.com/tubban1/eduNest)
+
+### 🔎 [LeadGen](https://github.com/tubban1/leadgen)
+
+**Autonomous multi-tenant website generation and deployment infrastructure.**
+
+Lead discovery → LLM-generated UI → Vercel deployment → DNS provisioning in one automated pipeline.
+
+[![Stars](https://img.shields.io/github/stars/tubban1/leadgen?style=flat-square&logo=github)](https://github.com/tubban1/leadgen/stargazers)
+[![Forks](https://img.shields.io/github/forks/tubban1/leadgen?style=flat-square&logo=github)](https://github.com/tubban1/leadgen/network/members)
+[![License](https://img.shields.io/github/license/tubban1/leadgen?style=flat-square)](https://github.com/tubban1/leadgen)
 
 ---
 
-## 🪰 Featured Open-Source Research
-
-### FlyEye
+## 🪰 Featured Open Research — FlyEye
 
 **Turning real Drosophila connectome data into executable neural circuits.**
 
-FlyEye is an open-source developer kit and interactive experiment based on a
-MaleCNS-derived Drosophila connectome subgraph.
+[FlyEye](https://github.com/tubban1/fly-eye) is an open-source developer kit and interactive experiment built around a real, signed **MaleCNS-derived Drosophila connectome subgraph**.
 
-- **3,376 neurons**
-- **78,797 signed neural edges**
-- JavaScript / TypeScript SDK
-- Python SDK
-- Hugging Face Dataset
-- Zenodo DOI
-- Interactive browser experiment
+**3,376 neurons · 78,797 signed neural edges**
+
+JavaScript / TypeScript SDK · Python SDK · Hugging Face Dataset · Zenodo DOI · Interactive browser experiment · Reproducible graph extraction
 
 [Live Demo](https://fly.fde.fan) ·
 [GitHub](https://github.com/tubban1/fly-eye) ·
@@ -44,25 +56,37 @@ MaleCNS-derived Drosophila connectome subgraph.
 [DOI](https://doi.org/10.5281/zenodo.22829797)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22829797.svg)](https://doi.org/10.5281/zenodo.22829797)
+[![CI](https://github.com/tubban1/fly-eye/actions/workflows/ci.yml/badge.svg)](https://github.com/tubban1/fly-eye/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/tubban1/fly-eye?include_prereleases&label=release)](https://github.com/tubban1/fly-eye/releases)
 
 ---
 
-## 🚀 Building
+## 🌍 Current Research
 
-- 🌍 **World2** — Autonomous agent world simulation
-- 🦉 **AgentOS** — Agent infrastructure, safety & governance
-- 🎓 **eduNest** — AI-native interactive education
-- 🤖 **AI Applications** — LLM, RAG, automation & robotics
+### [World2](https://github.com/tubban1/world2)
+
+A persistent agent world where autonomous agents **perceive → retrieve memory → decide → act → receive environmental feedback → update memory**.
+
+Current work includes persistent multi-agent state, memory and relationships, social/economic interaction, governance, real-world geography and weather, external information, and explainable decision traces.
+
+### 🦉 AgentOS
+
+**Agent infrastructure, execution, safety and governance.**
+
+Exploring how autonomous agents can be coordinated as reliable long-running systems with shared state, tools, memory and recovery mechanisms.
 
 ---
 
 ## 📦 Public Research & Developer Artifacts
 
-- **Hugging Face Dataset** — FlyEye Escape Neuron v1
-- **Zenodo Archive** — DOI: `10.5281/zenodo.22829797`
-- **npm packages** — FlyEye graph/runtime/tooling packages
-- **PyPI** — `flyeye-graphs`
-- **GitHub Releases** — versioned publication assets
+| Artifact | Project |
+| --- | --- |
+| Hugging Face Dataset | FlyEye Escape Neuron v1 |
+| Zenodo DOI | `10.5281/zenodo.22829797` |
+| npm packages | FlyEye graph / runtime / tooling |
+| PyPI package | `flyeye-graphs` |
+| GitHub Releases | Versioned FlyEye publication assets |
+| Interactive demo | [fly.fde.fan](https://fly.fde.fan) |
 
 ---
 
@@ -78,8 +102,8 @@ MaleCNS-derived Drosophila connectome subgraph.
 
 <div align="center">
 
-**Agents · Ontology · Simulation · Robotics · AI Infrastructure · Open Research**
+**Agents · World Models · Simulation · Robotics · AI Infrastructure · Open Research**
 
-> Building systems where AI can perceive, reason, act and evolve.
+> Building systems where AI can perceive, reason, act and continuously adapt to the world.
 
 </div>
